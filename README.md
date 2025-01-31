@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **The egg**
 
-- 🌱 I’m currently learning **Python,**
+- 🌱 I’m currently learning **Python css,**
 
 - 👯 I’m looking to collaborate on **Cisco Packet Tracer**
 
